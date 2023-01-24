@@ -1,0 +1,20 @@
+{
+    "name": "nl.btr.mastodon",
+    "description": "Description",
+    "architecture": "arm64",
+    "title": "Mastodon",
+    "hooks": {
+        "mastodon": {
+            "apparmor": "mastodon.apparmor",
+            "desktop":  "mastodon.desktop",
+            "urls": "mastodon.url-dispatcher.json"
+        },
+        "mastodonHelper": {
+            "apparmor": "mastodonHelper.apparmor.json",
+            "push-helper": "mastodonHelper.json"
+        }
+    },
+    "version": "1.1.0",
+    "maintainer": "Development@bendingtherules.nl <email@domain.org>",
+    "framework": "ubuntu-sdk-16.04.5"
+}

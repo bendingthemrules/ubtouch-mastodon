@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Mastodon
+Exec=mastodon %U
+Icon=assets/appIcon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

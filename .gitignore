@@ -1,0 +1,11 @@
+.clickable
+.DS_Store
+.idea/
+
+# generated files
+build/
+depoloy/
+moc_*
+moc\.*
+rcc_*
+rcc\.*

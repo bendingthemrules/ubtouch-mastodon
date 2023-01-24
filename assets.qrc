@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/appIcon.png</file>
+        <file>assets/mastodonBG.png</file>
+        <file>assets/mastodonLogo.svg</file>
+        <file>assets/check.svg</file>
+        <file>assets/groups.svg</file>
+        <file>assets/search.svg</file>
+        <file>assets/translate.svg</file>
+        <file>assets/email.png</file>
+        <file>assets/logo.svg</file>
+    </qresource>
+</RCC>
