@@ -14,7 +14,7 @@
             "push-helper": "mastodonHelper.json"
         }
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "maintainer": "Development@bendingtherules.nl <email@domain.org>",
     "framework": "ubuntu-sdk-16.04.5"
 }

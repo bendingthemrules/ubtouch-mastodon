@@ -17,12 +17,13 @@
 package main
 
 import (
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/gui"
-	"github.com/therecipe/qt/quick"
 	"mastodon-client/mastodon"
 	"mastodon-client/pushnotifications"
 	"os"
+
+	"github.com/therecipe/qt/core"
+	"github.com/therecipe/qt/gui"
+	"github.com/therecipe/qt/quick"
 )
 
 type RootObject struct {
